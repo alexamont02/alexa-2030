@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<title> Alexa</title>
+</head>
+<body background="nube.jpg">
+<center>
+<h1> Mi primer sitio web </h1>
+<hr>
+<p> 
+<a href="http://www.prepa2030.org"> Prepa 20-30 </a> 
+</p>
+<a href="http://prepa2030online.com"> <img src="bubble.png" width=200> </a>
+</center>
+</body>
+
+</html>
